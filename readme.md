@@ -1,55 +1,49 @@
-# Quarto Resume Template
+# Hritika Kathuria
 
-Create a professional resume website and PDF for free using GitHub Pages and Quarto!
+| [hritika.kathuria@polytechnique.edu](mailto:hritika.kathuria@polytechnique.edu)
+| [linkedin.com/in/hritika-kathuria](https://www.linkedin.com/in/hritika-kathuria/?locale=fr_FR)
 
-![Sample Quarto Resume - Jane Doe](image.png)
+## About me
+I'm a PhD student at Ecole Polytechnique and INRIA with [Ioana Manolescu](https://pages.saclay.inria.fr/ioana.manolescu/) and [Maxime Buron](https://perso.limos.fr/~maburon/) in the CEDAR team at LiX. 
 
-## 🌟 Features
+## Work Experience
 
-- **Dual Format**: Get both an HTML website and a PDF version of your resume
-- **Easy Updates**: Simple text-based resume storage with automatic regeneration
-- **Free Hosting**: Utilize GitHub Pages for cost-free web hosting
-- **Professional Domain**: Your site at `<your-github-username>.github.io`
-- **Version Control**: Track changes and revert if needed
-- **Full Content Control**: Unlike third-party platforms, you own your data
-- **Trusted Platform**: Leverage GitHub's credibility in the tech industry
+### PhD in Computer Science
+*From October 2024* 
+- Topic: Decentralized semantic data sharing with access control
+Main areas: secure data sharing in a decentralized, OBDA (ontology based data access)-style setting; RDF Integration systems; Semantic Web; data integration in heterogenous sources. Open source code in Java.
 
-## 🚀 Quick Start
+### Machine Learning Researcher
+*From March 2024 to September 2024, Nokia Bell Labs Paris*
+- Enhanced an established methodology in Topological Data Analysis (TDA) for analyzing scientific field evolution on a dataset of patents, improving its ability to capture nuanced trends.
+- Developed advanced NLP-driven algorithms with dimensionality reduction for
+eﬃcient innovation landscape analysis.
 
-1. **Use this template** or fork the repository
-2. Name your repository `<your-github-username>.github.io`
-3. Edit `RESUME.md` with your information
-4. Customize `RESUME.json` and `_quarto.yml` (optional)
-5. Enable GitHub Pages in your repository settings
+### Artificial Intelligence Researcher
+*From February 2023 to August 2023, École Normale Supérieure*
 
-Your resume will be live at `https://<your-github-username>.github.io`!
+- Developed a computer vision pipeline that fine-tuned classification models to detect facial landmarks with 87% accuracy, providing statistical tests and
+presented the work at the EHBIA in London.
 
-For detailed instructions, check out our [step-by-step guide](https://toknow.ai/posts/quarto-resume-template/).
+## Education
 
-## 📘 Resources
+### Master of Science   
+*2022 - 2024, Learning Planet Institute*
+- Exchange at ENS Paris and ESME Paris
+### Bachelor of Science   
+*2019 - 2022, University of Delhi*
+- Exchange at University College London and University of Oslo
 
-- [Sample Resume Website](https://toknow.ai/quarto-resume-template/)
-- [Sample Resume PDF](https://toknow.ai/quarto-resume-template/index.pdf)
-- [Detailed Blog Post](https://toknow.ai/posts/quarto-resume-template/)
+## Skills
 
-## 🛠 Customization
+- Programming Languages: Java, Python, SQL, C++
+- Visualization Tools: Tableau, PowerBI
+- Machine Learning: Scikit-learn, TensorFlow
 
-- Edit `RESUME.md` to update your resume content
-- Modify `RESUME.json` to change site metadata
-- Adjust `_quarto.yml` to alter the site's theme or layout
 
-## 🤝 Contributing
+## Languages
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+- English: Fluent
+- French: Intermediate
 
-## 📄 License
 
-This project is open source and available under the [GNU General Public License v3.0 (GPLv3).](LICENSE).
-
-## 💬 Support
-
-If you encounter any issues or have questions, please [open an issue](https://github.com/ToKnow-ai/quarto-resume-template/issues) in this repository.
-
----
-
-Happy job hunting, and enjoy your new resume website! 🎉
