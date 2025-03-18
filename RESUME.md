@@ -1,14 +1,20 @@
-# Jane Doe
-Data Analyst
-| [example@gmail.com](mailto:example@gmail.com)
-| [+254 777 777 777](tel:+254777777777)
-| [example.com](https://example.com)
+# Hritika Kathuria
+PhD student
+| [hritika.kathuria@polytechnique.edu](mailto:hritika.kathuria@polytechnique.edu)
 | [linkedin.com/in/janedoe](https://www2.linkedin.com/in/janedoe/)
 
 ## About me
-Data-driven professional with a passion for uncovering insights from data to solve real-world business problems. Skilled in Python, SQL, and Tableau, with a strong background in statistical analysis. In my free time, I enjoy hiking and exploring new technology.
+I'm a PhD student at Ecole Polytechnique and INRIA with [Ioana Manolescu](https://pages.saclay.inria.fr/ioana.manolescu/) and [Maxime Buron](https://perso.limos.fr/~maburon/) in the CEDAR team at LIX. 
 
 ## Work Experience
+
+### PhD in Computer Science
+*From October 2024* 
+- Topic: Decentralized semantic data sharing with access control
+Supervisors: Ioana Manolescu , Maxime Buron
+Main areas: secure data sharing in a decentralized, OBDA (ontology based data
+access)-style setting; RDF Integration systems; Semantic Web; data integration
+in heterogenous sources
 
 ### Data Analyst, ABC Tech Solutions
 *January 2023 - Present*
