@@ -10,11 +10,13 @@ I'm a PhD student at Ecole Polytechnique and INRIA with [Ioana Manolescu](https:
 
 ### PhD in Computer Science
 *From October 2024* 
+
 - Topic: Decentralized semantic data sharing with access control
 Main areas: secure data sharing in a decentralized, OBDA (ontology based data access)-style setting; RDF Integration systems; Semantic Web; data integration in heterogenous sources. Open source code in Java.
 
 ### Machine Learning Researcher
 *From March 2024 to September 2024, Nokia Bell Labs Paris*
+
 - Enhanced an established methodology in Topological Data Analysis (TDA) for analyzing scientific field evolution on a dataset of patents, improving its ability to capture nuanced trends.
 - Developed advanced NLP-driven algorithms with dimensionality reduction for
 eﬃcient innovation landscape analysis.
@@ -29,11 +31,12 @@ presented the work at the EHBIA in London.
 
 ### Master of Science   
 *2022 - 2024, Learning Planet Institute*
-- Exchange at ENS Paris and ESME Paris
 
+- Exchange at ENS Paris and ESME Paris
 
 ### Bachelor of Science   
 *2019 - 2022, University of Delhi*
+
 - Exchange at University College London and University of Oslo
 
 ## Skills
