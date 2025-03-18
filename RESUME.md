@@ -31,6 +31,7 @@ presented the work at the EHBIA in London.
 *2022 - 2024, Learning Planet Institute*
 - Exchange at ENS Paris and ESME Paris
 
+
 ### Bachelor of Science   
 *2019 - 2022, University of Delhi*
 - Exchange at University College London and University of Oslo
