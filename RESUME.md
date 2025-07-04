@@ -29,6 +29,10 @@ presented the work at the EHBIA in London.
 
 ## Education
 
+### PhD in Computer Science
+*2024, École polytechnique*
+- Attended ISWS 2025 and VLDB Summer Schools
+
 ### Master of Science   
 *2022 - 2024, Learning Planet Institute*
 
@@ -43,7 +47,7 @@ presented the work at the EHBIA in London.
 
 - Programming Languages: Java, Python, SQL, C++
 - Visualization Tools: Tableau, PowerBI
-- Machine Learning: Scikit-learn, TensorFlow
+- Machine Learning: Scikit-learn, PyTorch
 
 
 ## Languages
